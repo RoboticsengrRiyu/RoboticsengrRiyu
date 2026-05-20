@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Louise, currently working as a robotics <br>data collector and AI annotation, also a QC and<br> Audit for Robotics  NVIDIA PH Team.<br><br>I'm looking for help with my future coding projects <br>and more software engineering projects<br><br>I'm learning more about being full-stack developer<br> and Software engineer.<br>
+Hi I'm Louise, currently working as a robotics <br>data collector and AI annotation, also a QC and<br> Audit for Robotics  NVIDIA PH Team.<br><br>I'm looking for help with my future coding projects <br>and more software engineering projects<br><br>I'm learning more about being a full-stack developer<br> and Software engineer.<br>
 
 
 # 💻 Tech Stack:
